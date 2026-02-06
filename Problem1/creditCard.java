@@ -1,4 +1,4 @@
-package JavaQap2.Problem1;
+package Problem1;
 
 public class creditCard {
     private person owner;
