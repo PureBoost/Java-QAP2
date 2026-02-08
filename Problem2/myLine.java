@@ -92,14 +92,4 @@ public class myLine {
         return "begin=(" + this.begin.x + "," + this.begin.y + "),end=(" + this.end.x + "," + this.end.y + ")";
     }
 
-
-
-
-
-
-
-
-
-
-
 }

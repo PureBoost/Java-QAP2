@@ -6,7 +6,7 @@ public class testMyRectangle {
 		System.out.println("Default rectangle: " + r1);
 		System.out.println("Width: " + r1.getWidth());
 		System.out.println("Height: " + r1.getHeight());
-		System.out.println("Area: " + r1.getArea());
+		System.out.println("Area: " + r1.myArea());
 		System.out.println("Perimeter: " + r1.getPerimeter());
 
 		myPoint tl = new myPoint(2, 8);
@@ -15,7 +15,7 @@ public class testMyRectangle {
 		System.out.println("\nCustom rectangle: " + r2);
 		System.out.println("Width: " + r2.getWidth());
 		System.out.println("Height: " + r2.getHeight());
-		System.out.println("Area: " + r2.getArea());
+		System.out.println("Area: " + r2.myArea());
 		System.out.println("Perimeter: " + r2.getPerimeter());
 	}
 }
