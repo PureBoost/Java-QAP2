@@ -1,4 +1,4 @@
-package Problem2;
+package Problem3;
 
 public class myPoint {
     public int x = 0;
