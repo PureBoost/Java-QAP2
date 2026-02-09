@@ -89,7 +89,7 @@ public class myLine {
     }
 
     public String toString() {
-        return "begin=(" + this.begin.x + "," + this.begin.y + "),end=(" + this.end.x + "," + this.end.y + ")";
+        return "begin = (" + this.begin.x + "," + this.begin.y + "),end=(" + this.end.x + "," + this.end.y + ")";
     }
 
 }

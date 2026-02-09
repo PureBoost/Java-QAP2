@@ -23,7 +23,7 @@ public class testCampusMap {
 		map.addWalkway1(walkway1);
 		map.addWalkway2(walkway2);
 
-		System.out.println("Total walkway length: " + map.calculateTotalWalkwayLength());
+		System.out.println("Walkway length: " + map.calculateTotalWalkwayLength());
 		System.out.println("Central fountain area: " + map.calculateTotalFountainArea());
 		System.out.println("Science to Library: " + map.isWalkwayFromTo(scienceHall, library));
 		System.out.println("Library to Science: " + map.isWalkwayFromTo(library, scienceHall));
